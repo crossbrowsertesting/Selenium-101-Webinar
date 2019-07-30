@@ -6,7 +6,7 @@ import time
 driver = webdriver.Chrome("./webdrivers/chromedriver")
 
 
-# run test in CBT:
+# run test in CrossBrowserTesting:
 # for more info on capabilities, check here:
 # https://help.crossbrowsertesting.com/selenium-testing/getting-started/crossbrowsertesting-automation-capabilities/
 # driver = webdriver.Remote(

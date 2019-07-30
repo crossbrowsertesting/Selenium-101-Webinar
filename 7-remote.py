@@ -7,7 +7,7 @@ import time
 from os import getcwd
 
 # Create the webdriver instance
-# instead of running against chrome, we're gonna run on CBT
+# instead of running against chrome, we're gonna run on CrossBrowserTesting
 
 user = "johnreese.vt@gmail.com"
 auth = "u0af4e32dc4fb29d"
